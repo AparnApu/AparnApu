@@ -1,13 +1,22 @@
 <img src="https://raw.githubusercontent.com/AparnApu/AparnApu/5d7fc8e84d8f4a2301090c4cc6e1e3680c91a390/readme/hero.svg" alt="Hero image">
 
 **I am a computer science student at Carleton University.  
-I like writing code, learning about algorithms and working on side-projects.** 👩‍💻
+I like writing code, learning about algorithms and working on side-projects.** 🍀
 
-📝 **I’m currently working on:** studying algorithms, robotics in simulated environments, the wonders of pointers and double pointers ✨  
+📝 **I’m currently working on:** 
+- studying algorithms, robotics in simulated environments, the wonders of pointers and double pointers ✨  
+- volunteering at [Technolgap](https://www.linkedin.com/company/technolgap/mycompany/) as Campus Lead 🌱
+- daily leetcoding to familiarize myself with types of algorithms, data structures and interview questions 👩‍💻
+- TA'ing for the Discrete Structures course at CU ➕
 
-👯 **I'm currently having fun with:** cheffing it up in the kitchen, dabbling in photography, discovering new music 🤸‍♀️
+<details>
+  <summary>Some other facts about me 🤸‍♀️</summary>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=AparnApu&show_icons=true&theme=nord)
+  - My go-to jam at the moment is Terrible Thing by AG
+  - I make monthly playlists over on Spotify, check them out [here](https://open.spotify.com/user/d88s4ryalobgobdzi3vs77937)
+
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=AparnApu&show_icons=true&theme=nord)
+</details>
 
 <hr>
 <p align="center">
@@ -19,6 +28,7 @@ I like writing code, learning about algorithms and working on side-projects.** �
     <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
+
 
   <p align="center">
     <a href="https://visitor-badge.glitch.me/">
