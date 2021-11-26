@@ -3,23 +3,26 @@
 **I am a computer science student at Carleton University.  
 I like writing code, learning about algorithms and working on side-projects.** 👩‍💻
 
-📝 **I’m currently working on:** 
-- studying algorithms
-- robotics in simulated environments
-- the wonders of pointers and double pointers ✨  
+📝 **I’m currently working on:** studying algorithms, robotics in simulated environments, the wonders of pointers and double pointers ✨  
 
-👯 **I'm currently having fun with:** 
-- cheffing it up in the kitchen
-- dabbling in photography 
-- discovering new music 🤸‍♀️
+👯 **I'm currently having fun with:** cheffing it up in the kitchen, dabbling in photography, discovering new music 🤸‍♀️
 
-<details>
-  <summary>Here's some other facts about me 🤸‍♀️</summary>
-
-  - I occasionally post my photos at **[VSCO](https://vsco.co/apuapru/gallery)** 📷
-  - My go to song at the moment: Terrible Thing by AG 🎧
-  
 ![My github stats](https://github-readme-stats.vercel.app/api?username=AparnApu&show_icons=true&theme=nord)
 
-</details>
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
 
+  <p align="center">
+    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+
+  <p align="center">
+    <a href="https://visitor-badge.glitch.me/">
+      <img align="center" src="https://page-views.glitch.me/badge?page_id=jayehernandez.jayehernandez">
+    </a>
+  </p>
+</p>
