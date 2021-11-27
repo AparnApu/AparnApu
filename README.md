@@ -7,7 +7,7 @@ I like writing code, learning about algorithms and working on side-projects.** �
 - studying algorithms, robotics in simulated environments, the wonders of pointers and double pointers ✨  
 - volunteering at [Technolgap](https://www.linkedin.com/company/technolgap/mycompany/) as Campus Lead 🌱
 - daily leetcoding to familiarize myself with types of algorithms, data structures and interview questions 👩‍💻
-- TA'ing for the Discrete Structures course at CU ➕
+- TA'ing for a [Discrete Structures](https://calendar.carleton.ca/search/?P=COMP%201805) course at CU ➕
 
 <details>
   <summary>Some other facts about me 🤸‍♀️</summary>
@@ -18,22 +18,8 @@ I like writing code, learning about algorithms and working on side-projects.** �
   ![My github stats](https://github-readme-stats.vercel.app/api?username=AparnApu&show_icons=true&theme=nord)
 </details>
 
-<hr>
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+---
 
-  <p align="center">
-    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
+Let's [connect](https://www.linkedin.com/in/aparna-apu/) and chat!
 
 <img src="https://raw.githubusercontent.com/AparnApu/AparnApu/df321da1273ca615f2e70da30bf4699d19f7cb90/readme/bottom.svg" alt="bottom">
-
-  <p align="center">
-    <a href="https://visitor-badge.glitch.me/">
-      <img align="center" src="https://page-views.glitch.me/badge?page_id=jayehernandez.jayehernandez">
-    </a>
-  </p>
-</p>
