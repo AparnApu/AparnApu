@@ -6,7 +6,7 @@
 - studying algorithms, robotics in simulated environments, the wonders of pointers and double pointers ✨  
 - volunteering at [Technolgap](https://www.linkedin.com/company/technolgap/mycompany/) as Campus Lead 🌱
 - daily leetcoding to familiarize myself with types of algorithms, data structures and interview questions 👩‍💻
-- TA'ing for a [Discrete Structures](https://calendar.carleton.ca/search/?P=COMP%201805) course at CU ➕
+- TA'ing for [Discrete Structures I](https://calendar.carleton.ca/search/?P=COMP%201805) course at CU ➕
 
 <details>
   <summary>Some other facts about me 🤸‍♀️</summary>
