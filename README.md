@@ -4,15 +4,13 @@
 **I like writing code, learning about algorithms and working on side-projects.** 
 
 📝 **I’m currently working on:** 
-- studying algorithms, robotics in simulated environments, the wonders of pointers and double pointers ✨  
-- volunteering at [Technolgap](https://www.linkedin.com/company/technolgap/mycompany/) as Campus Lead 🌱
-- daily leetcoding to familiarize myself with types of algorithms, data structures and interview questions 👩‍💻
+- learning concepts in the field of Cyber-Security, participating in CTF's and  ✨  
 - TA'ing for [Discrete Structures I](https://calendar.carleton.ca/search/?P=COMP%201805) course at CU ➕
 
 <details>
   <summary>Some other facts about me 🤸‍♀️</summary>
 
-  - My go-to jam at the moment is Terrible Thing by AG
+  - My go-to jam at the moment is Spooky by Dusty Springfield
   - I make monthly playlists over on Spotify, check them out [here](https://open.spotify.com/user/d88s4ryalobgobdzi3vs77937)
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=AparnApu&show_icons=true&theme=nord)
