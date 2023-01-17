@@ -4,7 +4,8 @@
 **I like writing code, learning about algorithms and working on side-projects.** 
 
 📝 **I’m currently working on:** 
-- learning concepts in the field of Cyber-Security, participating in CTF's and  ✨  
+- Learning concepts in the field of Cyber-Security, participating in CTF's and attending cyber-sci related conferences ✨  
+- Learning about Linear Algebra, Sampling Methodologies and Web Development
 - TA'ing for [Discrete Structures I](https://calendar.carleton.ca/search/?P=COMP%201805) course at CU ➕
 
 <details>
